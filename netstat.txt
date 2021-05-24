@@ -1,0 +1,3 @@
+netstat -a -n -o
+
+esse comando no powershel é mt melhor
